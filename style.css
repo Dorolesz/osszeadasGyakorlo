@@ -1,0 +1,10 @@
+body.correct {
+    background-color: lightgreen;
+  }
+  body.incorrect {
+    background-color: lightcoral;
+  }
+
+#feedback{
+    margin-top: 10px;
+}
